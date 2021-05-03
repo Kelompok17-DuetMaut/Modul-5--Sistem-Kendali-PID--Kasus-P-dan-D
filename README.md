@@ -1,1 +1,1 @@
-# Modul-5--Sistem-Kendali-PID--Kasus-P-dan-D
+# Modul-6--Sistem-Kendali-PID--Kasus-P-dan-D dan EEPROM
